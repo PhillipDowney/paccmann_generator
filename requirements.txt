@@ -1,5 +1,5 @@
 
-paccmann_chemistry @ git+https://git@github.com/PaccMann/paccmann_chemistry@0.0.4
+paccmann_chemistry @ git+https://git@github.com/PhillipDowney/paccmann_chemistry@0.0.4
 numpy==1.18.5
 pandas>=0.24.1
 torch>=1.3.1
