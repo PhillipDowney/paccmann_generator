@@ -36,7 +36,7 @@ setup(
         "pytoda",
         "torch>=1.0.0",
         "six>=1.12.0",
-        "toxsmi==0.0.3",
+        "toxsmi==0.0.1",
     ],
     packages=find_packages("."),
     zip_safe=False,
