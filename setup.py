@@ -36,7 +36,7 @@ setup(
         "pytoda @ git+https://github.com/paccmann/toxsmi@0.1.1",
         "torch>=1.0.0",
         "six>=1.12.0",
-        "toxsmi==0.0.1",
+        "toxsmi @ git+https://github.com/paccmann/toxsmi@0.0.1",
     ],
     packages=find_packages("."),
     zip_safe=False,
