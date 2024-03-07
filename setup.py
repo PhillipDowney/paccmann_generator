@@ -33,7 +33,7 @@ setup(
         "pandas",
         "matplotlib",
         "seaborn",
-        "pytoda",
+        "pytoda==0.1.1",
         "torch>=1.0.0",
         "six>=1.12.0",
         "toxsmi==0.0.1",
