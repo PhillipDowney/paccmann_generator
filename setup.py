@@ -33,7 +33,7 @@ setup(
         "pandas",
         "matplotlib",
         "seaborn",
-        "pytoda @ git+https://github.com/PaccMann/paccmann_datasets@0.1.1",
+        "pytoda @ git+https://github.com/PaccMann/paccmann_datasets@1.1.3",
         "torch>=1.0.0",
         "six>=1.12.0",
         "toxsmi @ git+https://github.com/paccmann/toxsmi@0.0.3",
