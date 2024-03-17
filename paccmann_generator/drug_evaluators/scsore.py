@@ -108,7 +108,7 @@ class SCScore(DrugEvaluator):
                     AllChem.GetMorganFingerprintAsBitVect(
                         mol, self.fp_rad, nBits=self.fp_len, useChirality=True
                     ),
-                    dtype=np.bool
+                    dtype=np.bool_
                 )
 
         self.mol_to_fp = mol_to_fp
